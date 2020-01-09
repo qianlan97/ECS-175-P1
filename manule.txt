@@ -1,0 +1,24 @@
+put your input coordinates data in "test.scene" file
+and run "make" command
+then "./output"
+
+before the operations of displaying, the program will do all the operations first
+Enter the option you want to choose
+1>translation
+2>rotation
+3>scaling
+0>done transforming
+
+follow the instruction and finish all the operations
+after that, if you enter 0, it will first save all the data after operation to a new file "new_data"
+secondly, it will ask:
+
+How would you like to draw shapes? Enter 1>dda 2>bresnham
+and 
+Would you like to resterize these shapes? Yes(y) or No(n)
+
+then display the shap after operation
+
+
+NOTE
+when entering the number of poly you want to transform, input 0 will represent the first poly, and 1 will represent the second poly, and 2 will represent the third poly, following so on
